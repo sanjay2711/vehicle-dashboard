@@ -1,6 +1,6 @@
 # Vehicle Ride Dashboard
 
-git
+Landscape Android dashboard (Kotlin + Jetpack Compose) showing simulated speed (km/h), motor ON/OFF and kill-switch Active/Inactive. No hardware, CAN or backend: a coroutine-driven simulator plays the part of the vehicle.
 
 ## Build and Run
 Requirements: Android Studio Rabbit 1 (2026.2.1) or newer, JDK 17, an emulator or device with API 26+
